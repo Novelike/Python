@@ -1,0 +1,356 @@
+{
+	"crawled_date": "2025-05-19 13:53:16",
+	"total_games": 50,
+	"games": [
+		{
+			"title": "The Witcher 3: Wild Hunt",
+			"price": "₩ 3,480",
+			"discount": "-90%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Tiny Pasture",
+			"price": "₩ 4,800",
+			"discount": "-20%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Frostpunk",
+			"price": "₩ 4,800",
+			"discount": "-85%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Stacklands",
+			"price": "₩ 5,280",
+			"discount": "-40%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Digimon Story Cyber Sleuth: Complete Edition",
+			"price": "₩ 5,480",
+			"discount": "-90%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Animal Spa",
+			"price": "₩ 6,030",
+			"discount": "-10%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "The Headliners",
+			"price": "₩ 6,230",
+			"discount": "-30%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Sid Meier’s Civilization® VI",
+			"price": "₩ 6,500",
+			"discount": "-90%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Ultimate Chicken Horse",
+			"price": "₩ 6,600",
+			"discount": "-60%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Among Us 3D",
+			"price": "₩ 8,000",
+			"discount": "-20%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Sid Meier's Civilization® V",
+			"price": "₩ 8,000",
+			"discount": "-75%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Risk of Rain 2",
+			"price": "₩ 8,580",
+			"discount": "-67%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Kenshi",
+			"price": "₩ 9,300",
+			"discount": "-70%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "3DMark",
+			"price": "₩ 9,370",
+			"discount": "-75%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Digimon World: Next Order",
+			"price": "₩ 9,570",
+			"discount": "-84%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Monster Battles",
+			"price": "₩ 9,900",
+			"discount": "-10%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "SANABI",
+			"price": "₩ 10,070",
+			"discount": "-35%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Skul: The Hero Slayer",
+			"price": "₩ 10,250",
+			"discount": "-50%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Ember Knights",
+			"price": "₩ 10,750",
+			"discount": "-50%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Stellaris",
+			"price": "₩ 11,000",
+			"discount": "-75%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "NBA 2K25",
+			"price": "₩ 11,620",
+			"discount": "-86%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Cult of the Lamb",
+			"price": "₩ 12,500",
+			"discount": "-50%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Dead Cells",
+			"price": "₩ 12,900",
+			"discount": "-50%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Cuphead",
+			"price": "₩ 14,700",
+			"discount": "-30%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Blacksmith Master",
+			"price": "₩ 14,920",
+			"discount": "-25%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Against the Storm",
+			"price": "₩ 14,950",
+			"discount": "-50%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Gunfire Reborn",
+			"price": "₩ 15,370",
+			"discount": "-25%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "The Slormancer",
+			"price": "₩ 16,120",
+			"discount": "-25%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Sifu",
+			"price": "₩ 16,400",
+			"discount": "-60%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Tower Dominion",
+			"price": "₩ 16,650",
+			"discount": "-10%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "RimWorld - Royalty",
+			"price": "₩ 18,270",
+			"discount": "-15%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "RimWorld - Ideology",
+			"price": "₩ 18,270",
+			"discount": "-15%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Grand Theft Auto V Enhanced",
+			"price": "₩ 18,700",
+			"discount": "-66%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Omega Crafter",
+			"price": "₩ 18,900",
+			"discount": "-30%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Unrailed 2: Back on Track",
+			"price": "₩ 20,620",
+			"discount": "-25%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "PowerWash Simulator",
+			"price": "₩ 20,860",
+			"discount": "-30%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Medieval Dynasty",
+			"price": "₩ 23,400",
+			"discount": "-35%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Palworld",
+			"price": "₩ 24,000",
+			"discount": "-25%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Fate/stay night REMASTERED",
+			"price": "₩ 24,000",
+			"discount": "-25%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "RimWorld - Biotech",
+			"price": "₩ 24,300",
+			"discount": "-10%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "RimWorld - Anomaly",
+			"price": "₩ 24,300",
+			"discount": "-10%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Enshrouded",
+			"price": "₩ 24,800",
+			"discount": "-20%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Cyberpunk 2077: Phantom Liberty",
+			"price": "₩ 26,170",
+			"discount": "-25%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Cyberpunk 2077",
+			"price": "₩ 26,400",
+			"discount": "-60%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "House Flipper 2",
+			"price": "₩ 27,590",
+			"discount": "-35%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Manor Lords",
+			"price": "₩ 27,930",
+			"discount": "-30%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "The Precinct",
+			"price": "₩ 28,900",
+			"discount": "-15%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Last Epoch",
+			"price": "₩ 30,000",
+			"discount": "-20%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "RimWorld",
+			"price": "₩ 30,000",
+			"discount": "-20%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		},
+		{
+			"title": "Frostpunk 2",
+			"price": "₩ 30,550",
+			"discount": "-35%",
+			"genres": [],
+			"crawled_time": "2025-05-19 13:53:16"
+		}
+	]
+}
