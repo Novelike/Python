@@ -1,3 +1,6 @@
+# 기초 249p
+# • 여러 개의 숫자를 입력받아 합계를 계산하는 함수를 작성
+# • 사용자가 'q'를 입력하면 입력을 중단하고 지금까지 입력한 숫자의 합을 출력
 def sum_numbers_with_expression():
     input_numbers = []
     
