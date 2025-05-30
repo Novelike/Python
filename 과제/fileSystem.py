@@ -234,3 +234,32 @@ async def file_downloads(filenames: List[str] = Query(...)):
 			}
 		)
 
+
+@app.delete("/remove", response_model=Dict[str, Any])
+async def file_remove(filenames: List[str] = Query(...)):
+	"""
+	# 서버에서 파일을 삭제합니다.
+	## 지정된 파일 목록을 업로드 디렉토리에서 삭제하는 함수입니다.
+	## 삭제하기 전에 파일이 존재하는지 확인하고, 삭제 성공 후 확인 메시지와
+	## 삭제된 파일 목록을 반환합니다.
+
+	### Parameters
+	- **filenames**: 삭제할 파일명 목록입니다. 
+	                업로드 디렉토리에 있는 파일들이어야 합니다.
+	                
+	### Returns
+	**Dictionary** containing:
+	- **message**: 성공 메시지
+	- **file_names**: 삭제된 파일명 목록
+	"""
+
+	validate_files_exist(filenames)
+
+	for filename in filenames:
+		file_path = os.path.join(UPLOAD_DIRECTORY, filename)
+		os.remove(file_path)
+
+	return {
+		"message": "File(s) removed successfully.",
+		"file_names": filenames
+	}
